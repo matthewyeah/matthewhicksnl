@@ -10,8 +10,8 @@ title: Matthew leert Nederlands
 email: hello@matthewmatthew.com
 description: > # this means to ignore newlines until "baseurl:"
  A simple blog to practice writing in Dutch. 
-baseurl: "/matthewhicksnl" # the subpath of your site, e.g. /blog
-url: "http://matthewyeah.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://matthewhicks.nl" # the base hostname & protocol for your site
 twitter_username: matthewhicks_
 github_username:  matthewyeah
 
