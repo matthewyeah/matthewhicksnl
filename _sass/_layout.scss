@@ -36,14 +36,14 @@
     }
 
     .page-link {
-        color: #a7a9ab;
+        color: #707070;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
         } &:hover {
-        color: #333333;
+        color: #000000;
     }
     }
 
