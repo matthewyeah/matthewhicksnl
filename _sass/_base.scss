@@ -223,11 +223,14 @@ pre {
     margin: 0 auto;
 }
 
-.site-footer .fietsPic {
-    max-width: 36px;
-    float: right;
+.site-footer {
+    position: inline-block;
 }
 
-.contact-list {
-    float: left;
+.site-footer .fietsPic {
+    max-width: 36px;
+}
+
+.site-footer .contact-list {
+
 }
