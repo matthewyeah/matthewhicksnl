@@ -18,10 +18,12 @@
     margin-bottom: 0;
     float: left;
     font-family: $header-font-family;
+    text-decoration: none;
 
     &,
-    &:visited {
+    &:visited, &:hover {
         color: #0B34FF;
+        text-decoration: none;
     }
 }
 
